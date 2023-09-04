@@ -1,0 +1,61 @@
+{
+	"id": "3123e4567-e89b-12d3-a456-426614175000",
+	"post": {
+		"content": "This is a discussion about the impact of climate change on our planet and what we can do to mitigate it. #ClimateChange #Environment #Sustainability",
+		"hashtags": [
+			{
+				"id": "1b671a64-40d5-491e-99b0-da01ff1f3341",
+				"text": "ClimateChange"
+			},
+			{
+				"id": "6ecd8c99-4036-403d-bf84-cf571e9126d9",
+				"text": "Environment"
+			},
+			{
+				"id": "7e7172a8-b2b8-44a0-a613-466d2d26fd2d",
+				"text": "Sustainability"
+			}
+		],
+		"language": "en",
+		"location": "New York, NY",
+		"media": [
+			{
+				"type": "image",
+				"url": "attachment1_url"
+			},
+			{
+				"type": "video",
+				"url": "attachment2_url"
+			}
+		],
+		"mentions": [
+			{
+				"date": "2022-09-13T14:30:00Z",
+				"id": "eb1b5b1e-b37b-4174-a8b8-1e9ea1a1d74f",
+				"username": "JaneDoe"
+			},
+			{
+				"date": "2022-09-13T14:35:00Z",
+				"id": "fa7b1b2e-c37c-4175-a9b9-2e9ea2a2d75f",
+				"username": "BobSmith"
+			}
+		],
+		"replyTo": [
+			{
+				"date": "2022-09-13T14:28:00Z",
+				"id": "cb2b3b2d-d37d-4176-a8b8-3e9ea3a3d76f",
+				"username": "AliceJohnson"
+			}
+		],
+		"reviewStatus": {
+			"decision": "approved",
+			"reason": null,
+			"reviewedBy": "moderator123",
+			"state": "reviewed"
+		},
+		"scheduled": false,
+		"scheduledAt": null,
+		"username": "JohnDoe"
+	},
+	"userId": "c3579436-66eb-44aa-af8a-f158c9d77c31"
+}
